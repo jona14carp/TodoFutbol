@@ -1,0 +1,7 @@
+.img-fluid{
+    height: 1366px;
+    width: 768px;
+}
+sticky-footer {
+    flex-shrink: none;
+  }
